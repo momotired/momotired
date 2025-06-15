@@ -5,7 +5,8 @@
 - 👯 I'm recently diving into Golang/C++/Web3
 - 📫 Email:shenglizhifeng@qq.com
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momotired)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momotired)
 
